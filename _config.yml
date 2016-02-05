@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#A0D0D0'
+    - '#000000'
+    - '#909090'
+    - '#000000'
+    - '#78E8F0'
+  brandStrength: 1
+  lightness: 0.96875
+  rhythmicContrast: 1
+  saturation: 0.996711
+cta: {}
+layout_spectrum: 1
+name: 'K Thorpe Photography '
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.620066
